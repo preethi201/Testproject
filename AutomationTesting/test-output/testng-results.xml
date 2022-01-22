@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[Forgotten password?]]>
+    </line>
+    <line>
+      <![CDATA[Create New Account]]>
+    </line>
+    <line>
+      <![CDATA[Create a Page]]>
+    </line>
+    <line>
+      <![CDATA[ಕನ್ನಡ]]>
+    </line>
+    <line>
+      <![CDATA[اردو]]>
+    </line>
+    <line>
+      <![CDATA[मराठी]]>
+    </line>
+    <line>
+      <![CDATA[తెలుగు]]>
+    </line>
+    <line>
+      <![CDATA[हिन्दी]]>
+    </line>
+    <line>
+      <![CDATA[தமிழ்]]>
+    </line>
+    <line>
+      <![CDATA[മലയാളം]]>
+    </line>
+    <line>
+      <![CDATA[বাংলা]]>
+    </line>
+    <line>
+      <![CDATA[ગુજરાતી]]>
+    </line>
+    <line>
+      <![CDATA[ਪੰਜਾਬੀ]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[Sign Up]]>
+    </line>
+    <line>
+      <![CDATA[Log In]]>
+    </line>
+    <line>
+      <![CDATA[Messenger]]>
+    </line>
+    <line>
+      <![CDATA[Facebook Lite]]>
+    </line>
+    <line>
+      <![CDATA[Watch]]>
+    </line>
+    <line>
+      <![CDATA[Places]]>
+    </line>
+    <line>
+      <![CDATA[Games]]>
+    </line>
+    <line>
+      <![CDATA[Marketplace]]>
+    </line>
+    <line>
+      <![CDATA[Facebook Pay]]>
+    </line>
+    <line>
+      <![CDATA[Oculus]]>
+    </line>
+    <line>
+      <![CDATA[Portal]]>
+    </line>
+    <line>
+      <![CDATA[Instagram]]>
+    </line>
+    <line>
+      <![CDATA[Bulletin]]>
+    </line>
+    <line>
+      <![CDATA[Local]]>
+    </line>
+    <line>
+      <![CDATA[Fundraisers]]>
+    </line>
+    <line>
+      <![CDATA[Services]]>
+    </line>
+    <line>
+      <![CDATA[Voting Information Centre]]>
+    </line>
+    <line>
+      <![CDATA[Groups]]>
+    </line>
+    <line>
+      <![CDATA[About]]>
+    </line>
+    <line>
+      <![CDATA[Create ad]]>
+    </line>
+    <line>
+      <![CDATA[Create Page]]>
+    </line>
+    <line>
+      <![CDATA[Developers]]>
+    </line>
+    <line>
+      <![CDATA[Careers]]>
+    </line>
+    <line>
+      <![CDATA[Privacy]]>
+    </line>
+    <line>
+      <![CDATA[Cookies]]>
+    </line>
+    <line>
+      <![CDATA[AdChoices]]>
+    </line>
+    <line>
+      <![CDATA[Terms]]>
+    </line>
+    <line>
+      <![CDATA[Help]]>
+    </line>
+    <line>
+      <![CDATA[Settings]]>
+    </line>
+    <line>
+      <![CDATA[Activity log]]>
+    </line>
+    <line>
+      <![CDATA[Facebook – log in or sign up]]>
+    </line>
+    <line>
+      <![CDATA[https://www.facebook.com/]]>
+    </line>
+  </reporter-output>
+  <suite name="All test Suite" duration-ms="5621" started-at="2022-01-21T14:19:20 IST" finished-at="2022-01-21T14:19:26 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5621" started-at="2022-01-21T14:19:20 IST" finished-at="2022-01-21T14:19:26 IST">
+      <class name="Testcases.Printingalllinks">
+        <test-method status="PASS" signature="launchingbrowser()[pri:0, instance:Testcases.Printingalllinks@c46bcd4]" name="launchingbrowser" is-config="true" duration-ms="4555" started-at="2022-01-21T14:19:20 IST" finished-at="2022-01-21T14:19:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingbrowser -->
+        <test-method status="PASS" signature="alllinks()[pri:0, instance:Testcases.Printingalllinks@c46bcd4]" name="alllinks" duration-ms="425" started-at="2022-01-21T14:19:25 IST" finished-at="2022-01-21T14:19:25 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[Forgotten password?]]>
+            </line>
+            <line>
+              <![CDATA[Create New Account]]>
+            </line>
+            <line>
+              <![CDATA[Create a Page]]>
+            </line>
+            <line>
+              <![CDATA[ಕನ್ನಡ]]>
+            </line>
+            <line>
+              <![CDATA[اردو]]>
+            </line>
+            <line>
+              <![CDATA[मराठी]]>
+            </line>
+            <line>
+              <![CDATA[తెలుగు]]>
+            </line>
+            <line>
+              <![CDATA[हिन्दी]]>
+            </line>
+            <line>
+              <![CDATA[தமிழ்]]>
+            </line>
+            <line>
+              <![CDATA[മലയാളം]]>
+            </line>
+            <line>
+              <![CDATA[বাংলা]]>
+            </line>
+            <line>
+              <![CDATA[ગુજરાતી]]>
+            </line>
+            <line>
+              <![CDATA[ਪੰਜਾਬੀ]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[Sign Up]]>
+            </line>
+            <line>
+              <![CDATA[Log In]]>
+            </line>
+            <line>
+              <![CDATA[Messenger]]>
+            </line>
+            <line>
+              <![CDATA[Facebook Lite]]>
+            </line>
+            <line>
+              <![CDATA[Watch]]>
+            </line>
+            <line>
+              <![CDATA[Places]]>
+            </line>
+            <line>
+              <![CDATA[Games]]>
+            </line>
+            <line>
+              <![CDATA[Marketplace]]>
+            </line>
+            <line>
+              <![CDATA[Facebook Pay]]>
+            </line>
+            <line>
+              <![CDATA[Oculus]]>
+            </line>
+            <line>
+              <![CDATA[Portal]]>
+            </line>
+            <line>
+              <![CDATA[Instagram]]>
+            </line>
+            <line>
+              <![CDATA[Bulletin]]>
+            </line>
+            <line>
+              <![CDATA[Local]]>
+            </line>
+            <line>
+              <![CDATA[Fundraisers]]>
+            </line>
+            <line>
+              <![CDATA[Services]]>
+            </line>
+            <line>
+              <![CDATA[Voting Information Centre]]>
+            </line>
+            <line>
+              <![CDATA[Groups]]>
+            </line>
+            <line>
+              <![CDATA[About]]>
+            </line>
+            <line>
+              <![CDATA[Create ad]]>
+            </line>
+            <line>
+              <![CDATA[Create Page]]>
+            </line>
+            <line>
+              <![CDATA[Developers]]>
+            </line>
+            <line>
+              <![CDATA[Careers]]>
+            </line>
+            <line>
+              <![CDATA[Privacy]]>
+            </line>
+            <line>
+              <![CDATA[Cookies]]>
+            </line>
+            <line>
+              <![CDATA[AdChoices]]>
+            </line>
+            <line>
+              <![CDATA[Terms]]>
+            </line>
+            <line>
+              <![CDATA[Help]]>
+            </line>
+            <line>
+              <![CDATA[Settings]]>
+            </line>
+            <line>
+              <![CDATA[Activity log]]>
+            </line>
+            <line>
+              <![CDATA[Facebook – log in or sign up]]>
+            </line>
+            <line>
+              <![CDATA[https://www.facebook.com/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- alllinks -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:Testcases.Printingalllinks@c46bcd4]" name="closebrowser" is-config="true" duration-ms="616" started-at="2022-01-21T14:19:25 IST" finished-at="2022-01-21T14:19:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- Testcases.Printingalllinks -->
+    </test> <!-- Test -->
+  </suite> <!-- All test Suite -->
+</testng-results>
