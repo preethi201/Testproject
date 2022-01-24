@@ -21,6 +21,9 @@ public class Daydropscreen extends Reusescreen{
 
 	}
 	
+	//launching program
+	//navigate url
+	
 	public void navigateto(String url) {
 		driver.navigate().to(url);
 		
