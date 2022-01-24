@@ -17,6 +17,9 @@ import org.testng.annotations.Test;
 
 
 public class Mulitplewindows {
+	
+	//learning automation testing in selenium
+	//progarmming laungauge is java
 	WebDriver driver;
 	public String readdata(String key) throws IOException {
 		Properties Properties = new Properties();

@@ -4,13 +4,12 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="Testcases.Allprogram">
+      <class name="Testcases.Daydropscreen">
         <methods>
-          <include name="checkboxradiobutton"/>
-          <include name="closebrowser"/>
-          <include name="display"/>
+          <include name="launch"/>
+          <include name="sample"/>
         </methods>
-      </class> <!-- Testcases.Allprogram -->
+      </class> <!-- Testcases.Daydropscreen -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [All test Suite] -->

@@ -3,21 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Testcases.Allprogram">
+      <class name="Testcases.Daydropscreen">
         <methods>
-          <include name="Titleurlpagesource"/>
-          <include name="Printalllinks"/>
-          <include name="screenshot1"/>
-          <include name="dropdown"/>
-          <include name="windowhandling"/>
-          <include name="scrolling"/>
-          <include name="draganddrop"/>
-          <include name="mouseover"/>
-          <include name="checkboxradiobutton"/>
-          <include name="closebrowser"/>
-          <include name="display"/>
+          <include name="launch"/>
+          <include name="sample"/>
         </methods>
-      </class> <!-- Testcases.Allprogram -->
+      </class> <!-- Testcases.Daydropscreen -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

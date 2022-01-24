@@ -8,30 +8,14 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 
-
-
-public class Reuseablescreenshot11 {
-	
-	Reuseablescreenshot11 (WebDriver driver){
-		this.driver=driver;
-			
-		}
-
+public class Reusescreen {
 	WebDriver driver;
-
 	public void takescreenshot(WebDriver driver,String name) throws IOException {
-	
+		
 	     TakesScreenshot a = (( TakesScreenshot)driver);
 	        File SrcFile = a.getScreenshotAs(OutputType.FILE);
 	        File DestFile = new File("D:\\workspace\\AutomationTesting\\Screenshotscreen\\Screenshotscreen"+name+".png");
 	        FileUtils.copyFile(SrcFile, DestFile);
-		
-			
-	        
-
 	}
 
-	
-		
-	}
-
+}
